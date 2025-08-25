@@ -10,3 +10,4 @@ This is my [ia34O"](https://github.com/) course code.
 - mini project
 - final project
 
+**Mandatory Attaendace**
