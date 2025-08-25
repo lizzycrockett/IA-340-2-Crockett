@@ -11,3 +11,5 @@ This is my [ia34O"](https://github.com/) course code.
 - final project
 
 *Mandatory Attaendace*
+
+**IA 340 Aritificial Intelligence TA*(https://chatgpt.com/g/g-67ec08ebab5c8191af406ab6da7dc28c-dr-weis-ai-ta)
